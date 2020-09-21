@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
-    private final static String MESSAGE = "";
+    private final static String MESSAGE = "Test";
     private static final int TIME_GAP = 7000;
     private static final int CLEANER_SLEEP_TIME = 2000;
     private static final int SENDER_SLEEP_TIME = 1000;
